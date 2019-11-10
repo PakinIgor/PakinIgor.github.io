@@ -161,3 +161,6 @@ input, textarea {
     padding-bottom: 10px;
     color: grey;
 }
+.expandable {
+	transition: 0.3s;
+}
