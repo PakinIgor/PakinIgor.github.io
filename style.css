@@ -164,3 +164,19 @@ input, textarea {
 .expandable {
 	transition: 0.3s;
 }
+.highlight {
+	background-color: #333;
+	color: #eee;
+}
+.block-name {
+	text-align: center;
+	margin: 0.2em;
+}
+.display-flex {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.td {
+	margin: 0 1.5em;
+}
