@@ -180,3 +180,17 @@ input, textarea {
 .td {
 	margin: 0 1.5em;
 }
+.block {
+	margin: 1em auto;
+}
+.cv-link {
+	margin: 0 0.25em;
+}
+.blank-square {
+	width: 5em;
+	border-radius: 0.25em;
+	margin: 0;
+	text-align: center;
+	padding: 2em 0;
+	color: #fff;
+}
