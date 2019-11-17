@@ -164,6 +164,9 @@ input, textarea {
 .expandable {
 	transition: 0.3s;
 }
+.expandable:hover {
+	font-size: 1.2em;
+}
 .highlight {
 	background-color: #333;
 	color: #eee;
@@ -193,4 +196,14 @@ input, textarea {
 	text-align: center;
 	padding: 2em 0;
 	color: #fff;
+}
+a {
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+	transition: 0.3s;
+}
+a:hover {
+	color: #1A6DBB;
+	transition: 0.3s;
 }
